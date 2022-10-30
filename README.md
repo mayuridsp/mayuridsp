@@ -5,7 +5,7 @@ My name is Mayuri, I am a Chemical Engineer paving my own way in programming.
 
 ## About me
 - Based in Porto, Portugal
-- Working as a Reinforcements Industrialization Engineer in a tire manufacturer
+- Working as a Reinforcements' Industrialization Engineer in a tire manufacturer
 - In February 2022 I started a Python Bootcamp at Udemy
 - In May 2022 I participated in HerHackathon 2022 with the challenge set by BASF (1st place in BASF competition, 2nd place in the hackathon)
 - https://www.linkedin.com/in/mayurisilva/
